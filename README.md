@@ -1,5 +1,5 @@
 #  Enhanced React Calculator (with Aider AI)
-
+Lujain Ahmad - 202201738
 ##  Overview
 This project is an enhanced version of the open-source [React Calculator], extended using the **Aider AI assistant**. The enhancements include new features, code improvements, and automated testing — all guided by natural language prompts.
 
@@ -38,13 +38,3 @@ This project is an enhanced version of the open-source [React Calculator], exten
 ##  Aider Commands Used
 - `/add`, `/ask`, `/diff`, `/commit`, `/test`, `/run`, `/edit`, `/explain`
 - Saved in `aider_chat_history.txt`
-
-##  Documentation
-- `implementation_plan.pdf`: Feature ideas and technical notes
-- `reflection.pdf`: What I learned from using Aider and its limitations
-
-##  Screenshots
-(Insert your screenshots here showing memory buttons and dark mode)
-
-- Name: <Lujain Ahmad>
-- Student ID: <202201738>
