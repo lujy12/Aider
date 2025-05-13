@@ -1,10 +1,7 @@
 # 🧮 Enhanced React Calculator (with Aider AI)
 
-## 🔗 GitHub Repository
-https://github.com/<your-username>/calculator
-
 ## 📌 Overview
-This project is an enhanced version of the open-source [React Calculator](https://github.com/ahfarmer/calculator), extended using the **Aider AI assistant**. The enhancements include new features, code improvements, and automated testing — all guided by natural language prompts.
+This project is an enhanced version of the open-source [React Calculator], extended using the **Aider AI assistant**. The enhancements include new features, code improvements, and automated testing — all guided by natural language prompts.
 
 ## ✨ New Features Implemented
 
