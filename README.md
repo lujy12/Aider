@@ -49,7 +49,5 @@ This project is an enhanced version of the open-source [React Calculator](https:
 ## 📸 Screenshots
 (Insert your screenshots here showing memory buttons and dark mode)
 
-## 📝 Author
-- Name: <Your Full Name>
-- Student ID: <Your ID>
-- Course: <Course Name>
+- Name: <Lujain Ahmad>
+- Student ID: <202201738>
